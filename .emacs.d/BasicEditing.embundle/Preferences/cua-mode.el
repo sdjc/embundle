@@ -1,0 +1,1 @@
+(custom-set-variables '(cua-mode t nil (cua-base)))

@@ -1,0 +1,1 @@
+(custom-set-variables '(ido-mode (quote both) nil (ido)))

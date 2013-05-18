@@ -1,0 +1,5 @@
+(add-to-list 'mmm-mode-ext-classes-alist '(nil "\\.htm$" mmm-html-mode))
+(add-to-list 'mmm-mode-ext-classes-alist '(nil "\\.html$" mmm-html-mode))
+(add-to-list 'mmm-mode-ext-classes-alist '(nil "\\.asp$" mmm-html-mode))
+(add-to-list 'mmm-mode-ext-classes-alist '(nil "\\.php$" mmm-html-mode))
+(add-to-list 'mmm-mode-ext-classes-alist '(nil "\\.jsp$" mmm-html-mode))

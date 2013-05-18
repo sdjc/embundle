@@ -1,0 +1,1 @@
+(custom-set-variables '(menu-bar-mode nil))

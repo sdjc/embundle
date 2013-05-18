@@ -1,0 +1,1 @@
+(custom-set-variables '(edit-server-start-hook (quote (rst-mode))))

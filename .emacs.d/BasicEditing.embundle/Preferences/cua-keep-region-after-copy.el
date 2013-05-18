@@ -1,0 +1,1 @@
+(custom-set-variables '(cua-keep-region-after-copy t))

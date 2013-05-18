@@ -1,0 +1,1 @@
+(custom-set-faces '(tabbar-default ((t (:background "gray65" :foreground "black")))))

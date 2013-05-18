@@ -1,0 +1,1 @@
+(custom-set-variables '(undo-outer-limit nil))

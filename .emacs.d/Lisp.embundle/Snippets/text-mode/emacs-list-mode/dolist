@@ -1,0 +1,2 @@
+dolist (${1:Element} ${2:List})
+$0)

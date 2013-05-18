@@ -1,0 +1,1 @@
+(custom-set-faces '(tabbar-selected ((t (:inherit tabbar-default :background "white" :box (:line-width 1 :color "white" :style pressed-button))))))

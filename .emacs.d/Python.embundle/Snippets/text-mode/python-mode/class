@@ -1,0 +1,4 @@
+class ${1:Foo}(${2:object}):
+
+def __init__(self$4):
+$2.__init__(self$4)

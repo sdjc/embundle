@@ -1,0 +1,1 @@
+(custom-set-variables '(linum-disabled-modes-list (quote (eshell-mode wl-summary-mode compilation-mode org-mode dired-mode shell-mode speedbar-mode tree-mode))))

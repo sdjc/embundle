@@ -1,0 +1,1 @@
+(custom-set-variables '(highlight-symbol-idle-delay 0.5))

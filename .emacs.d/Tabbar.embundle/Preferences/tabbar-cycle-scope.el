@@ -1,0 +1,1 @@
+(custom-set-variables '(tabbar-cycle-scope (quote tabs)))

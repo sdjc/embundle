@@ -1,0 +1,1 @@
+(custom-set-variables '(tabbar-scroll-right-button (quote (("") ""))))

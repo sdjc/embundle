@@ -1,0 +1,1 @@
+(autoload 'erlang-mode "erlang")

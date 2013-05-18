@@ -1,0 +1,1 @@
+;; (custom-set-variables '(edit-server-new-frame-mode-line nil))

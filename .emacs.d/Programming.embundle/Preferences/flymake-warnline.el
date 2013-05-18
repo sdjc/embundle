@@ -1,0 +1,1 @@
+(custom-set-faces '(flymake-warnline ((((class color) (background light)) (:background "LightBlue" :foreground "Blue")))))

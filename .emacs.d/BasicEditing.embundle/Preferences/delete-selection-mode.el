@@ -1,0 +1,1 @@
+(custom-set-variables '(delete-selection-mode t))

@@ -1,0 +1,1 @@
+(autoload 'lpc-mode "lpc-mode")

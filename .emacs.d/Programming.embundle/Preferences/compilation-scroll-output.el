@@ -1,0 +1,1 @@
+(custom-set-variables '(compilation-scroll-output t))

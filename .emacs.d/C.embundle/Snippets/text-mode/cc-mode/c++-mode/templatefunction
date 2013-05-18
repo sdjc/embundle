@@ -1,0 +1,4 @@
+template <typename ${1:Tp}>
+${2:void} ${3:Function}($4) {
+$0
+}

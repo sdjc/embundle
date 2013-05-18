@@ -1,0 +1,1 @@
+(custom-set-variables '(tabbar-home-button (quote (("") ""))))

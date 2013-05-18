@@ -1,0 +1,1 @@
+(custom-set-variables '(auto-save-default nil))

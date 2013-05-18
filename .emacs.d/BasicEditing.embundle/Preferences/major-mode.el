@@ -1,0 +1,1 @@
+(custom-set-variables '(major-mode (quote rst-mode)))

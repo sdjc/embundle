@@ -1,0 +1,1 @@
+(custom-set-variables '(revert-without-query (quote (".*"))))

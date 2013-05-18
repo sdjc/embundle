@@ -1,0 +1,1 @@
+(custom-set-variables '(cursor-in-non-selected-windows nil))

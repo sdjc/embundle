@@ -1,0 +1,1 @@
+(custom-set-variables '(tabbar-mwheel-mode nil nil (tabbar)))

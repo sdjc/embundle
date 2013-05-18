@@ -1,0 +1,1 @@
+(custom-set-variables '(yas/visit-from-menu t))

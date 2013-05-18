@@ -1,0 +1,1 @@
+(custom-set-faces '(flymake-errline ((((class color) (background light)) (:background "LightPink" :foreground "Red")))))

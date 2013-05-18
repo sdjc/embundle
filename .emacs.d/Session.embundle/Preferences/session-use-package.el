@@ -1,0 +1,1 @@
+(custom-set-variables '(session-use-package t nil (session)))

@@ -1,0 +1,1 @@
+(custom-set-faces '(mmm-default-submode-face ((t (:background "RoyalBlue4")))))

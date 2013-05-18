@@ -1,0 +1,1 @@
+(custom-set-variables '(inhibit-startup-screen t))

@@ -1,0 +1,1 @@
+(add-to-list 'auto-mode-alist '("profile$" . conf-mode))

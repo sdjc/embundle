@@ -1,0 +1,1 @@
+(custom-set-faces '(yas/field-highlight-face ((((class color) (background light)) (:background "DarkSeaGreen" :foreground "black")))))

@@ -1,0 +1,1 @@
+(custom-set-variables '(edit-server-done-hook (quote (delete-trailing-whitespace))))

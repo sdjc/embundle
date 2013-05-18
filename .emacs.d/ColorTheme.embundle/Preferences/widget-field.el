@@ -1,0 +1,1 @@
+(custom-set-faces '(widget-field ((t (:background "dim gray" :foreground "black")))))

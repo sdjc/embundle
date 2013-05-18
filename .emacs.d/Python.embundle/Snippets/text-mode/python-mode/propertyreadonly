@@ -1,0 +1,3 @@
+@property
+def get_${1:property_name}(self):
+return self._$1

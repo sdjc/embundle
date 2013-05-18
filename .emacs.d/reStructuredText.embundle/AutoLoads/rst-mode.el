@@ -1,0 +1,1 @@
+(autoload 'rst-mode "rst")

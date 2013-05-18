@@ -1,0 +1,1 @@
+(custom-set-variables '(before-save-hook (quote (delete-trailing-whitespace))))

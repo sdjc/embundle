@@ -1,0 +1,1 @@
+(custom-set-variables '(mode-require-final-newline nil))

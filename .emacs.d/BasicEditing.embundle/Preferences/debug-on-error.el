@@ -1,0 +1,1 @@
+(custom-set-variables '(debug-on-error nil))

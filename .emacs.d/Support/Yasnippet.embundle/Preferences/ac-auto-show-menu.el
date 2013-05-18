@@ -1,0 +1,1 @@
+(custom-set-variables '(ac-auto-show-menu t))

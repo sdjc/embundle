@@ -1,0 +1,1 @@
+(add-to-list 'pymacs-load-path "~/.emacs.d/Support/.pymodules")

@@ -1,0 +1,1 @@
+(custom-set-variables '(line-number-mode nil))

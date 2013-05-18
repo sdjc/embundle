@@ -1,0 +1,1 @@
+(setq tabbar-buffer-groups-function (lambda () '("All Buffers")))

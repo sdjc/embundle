@@ -1,0 +1,6 @@
+(add-to-list 'auto-mode-alist '("\\.htm" . html-mode))
+(add-to-list 'auto-mode-alist '("\\.html" . html-mode))
+(add-to-list 'auto-mode-alist '("/\\(views\\|html\\|templates\\)/.*\\.php\\'" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.tpl\\.php\\'" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.html" . web-mode))
+(add-to-list 'auto-mode-alist '("\\.htm" . web-mode))

@@ -1,0 +1,1 @@
+(custom-set-variables '(default-frame-alist (quote ((font . "fontset-myfixwidth") (alpha . 95) (background-mode . dark) (left-fringe . 0) (right-fringe . 0) (menu-bar-lines . 1) (width . 83)))))

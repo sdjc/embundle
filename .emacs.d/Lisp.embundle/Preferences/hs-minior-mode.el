@@ -1,0 +1,1 @@
+(add-hook 'lisp-mode-hook 'hs-minor-mode)
